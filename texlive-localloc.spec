@@ -5,8 +5,8 @@
 # catalog-license other-free
 # catalog-version undef
 Name:		texlive-localloc
-Version:	20091006
-Release:	10
+Version:	20170414
+Release:	1
 Summary:	Macros for localizing TeX register allocations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/localloc

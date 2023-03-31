@@ -1,6 +1,6 @@
 Name:		texlive-localloc
 Version:	56496
-Release:	1
+Release:	2
 Summary:	Macros for localizing TeX register allocations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/localloc
